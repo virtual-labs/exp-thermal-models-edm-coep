@@ -10,7 +10,7 @@ Among the various models developed by different researchers, the basic accepted 
 3. Radius at insulated surface is assumed 100 times, the radius of disk heat source.
 Heat source assumed to be existent for the pulse-on-time with the gradually increasing and then decreasing heat source radius.
 
-<center><img src="images/1.png" title="Fig. 3.1 Snoeys's model" />Fig. 3.1 Snoeys's model</center>
+<center><img src="images/1.png" title="Fig. 3.1 Snoeys's model" /></center><center>Fig. 3.1 Snoeys's model</<center>
 <br>
 Fraction of discharge energy transferred to cathode is assumed to be 50% (Fc = 0.5).
 
@@ -32,7 +32,7 @@ where,
 4. A method to account the change in radius of heat source with time is proposed.
 The schematic diagram of Van Dijck's model is illustrated in the Figure 3. 2.
 
-<center><img src="images/fig4.gif" title="Fig. 3.2 Van Dijck's model" /> Fig. 3.2 Van Dijck's model</center>
+<center><img src="images/fig4.gif" title="Fig. 3.2 Van Dijck's model" /></center><center> Fig. 3.2 Van Dijck's model</center>
 <br>
 The superposition principle and separation of variables were applied to the partial differential equation and the solution of the temperature distribution is given as
 
@@ -40,7 +40,7 @@ The superposition principle and separation of variables were applied to the part
 <br>
 for,
 
-<center><img src="images/fig6.gif" title="" />&emsp; <img src="images/fig7.gif" title="" /> <img src="images/fig8.gif" title="" /></center>
+<center><img src="images/fig6.gif" title="" />&emsp; &emsp;&emsp;&emsp;<img src="images/fig7.gif" title="" /><br><br> <img src="images/fig8.gif" title="" /></center>
 
 **Beck's Model** (1981) is also another disk heat source model. This mode is not developed specifically for the EDM process but resembles to the one. Figure 3.3 shows the schematic representation of the model.
 
@@ -49,7 +49,7 @@ for,
 2. The entire electrode surface is considered to be insulated; except over the circular region where the heat flux strikes the material surfaces.
 As the model is not developed specifically for the EDM process, the heat flux did not take into account the fraction of energy transferred to the cathode.
 
-<center><img src="images/fig9.gif" title="fig. 3.3 Beck's model" />  fig. 3.3 Beck's model</center>
+<center><img src="images/fig9.gif" title="fig. 3.3 Beck's model" /></center><center>  fig. 3.3 Beck's model</center>
 <br>
 The temperature distribution is given by equation (3.3),
 
@@ -61,7 +61,7 @@ Where;
 
 **Jilani's Model** (1983, 1986) and P.C. Pandey of University of Rurkee proposed a thermal model of EDM in 1983. Figure 3.4 shows the schematic representation of the model.
 
-<center><img src="images/fig12.gif" title="fig. 3.4 Jilani's model" /> fig. 3.4 Jilani's model</center>
+<center><img src="images/fig12.gif" title="fig. 3.4 Jilani's model" /></center><center> fig. 3.4 Jilani's model</center>
 <br>
 **Features**
 
@@ -86,7 +86,7 @@ Figure 3.20 illustrates the spherical symmetry resulting from assumptions as wel
 1. Unlike all previous models, this model assumed a point heat source (PHSM) instead of a disk for conduction into its interior. This is because the plasma radius at the cathode was assumed to be much smaller than that at the anode.
 2. The energy distributed to the cathode for erosion is assumed to be 18% (Fc = 0.18).
 
-<center><img src="images/fig15.gif" title="fig. 3.5 Dibitonto's model" /> fig. 3.5 Dibitonto's model</center>
+<center><img src="images/fig15.gif" title="fig. 3.5 Dibitonto's model" /> </center><center>fig. 3.5 Dibitonto's model</center>
 <br>
 The temperature distribution was given by Carslaw and Jaeger in1956 as,
 
@@ -108,11 +108,11 @@ where, &lambda;<sub>f</sub> = heat of fusion, V<sub>c</sub> = molten cavity volu
 
 and Figure 3.6 represents the schematic diagram for the model
 
-<center><img src="images/fig22.gif" title="" /></center>
+<center><img src="images/fig22.gif" title="" /></center><center>fig. 3.6 Salonitis's model</center>
 
 The crater is assumed to have circular paraboloid geometry and its diameter on the surface is determined from the empirical relations in equation (3.9).
 
-<center><img src="images/fig23.gif" title="" />&emsp;<img src="images/fig24.gif" title="(3.9)" /> (3.9)</center>
+<center><img src="images/fig23.gif" title="" />&emsp;&emsp;&emsp;<img src="images/fig24.gif" title="(3.9)" /> (3.9)</center>
 <br>
 where, Ra is average surface roughness.
 
@@ -122,7 +122,7 @@ Heat balance equation at the erosion front was given by equation (3.10).
 <br>
 where,
 
-<center><img src="images/fig26.gif" title="" /><img src="images/fig27.gif" title="" />  and <img src="images/fig28.gif" title="(3.11)" />(3.11)</center>
+<center><img src="images/fig26.gif" title="" />&emsp;&emsp;&emsp;&emsp;<img src="images/fig27.gif" title="" /> <br> and <br> <img src="images/fig28.gif" title="(3.11)" />(3.11)</center>
 <br>
 And the velocity on erosion front is stated as –
 
