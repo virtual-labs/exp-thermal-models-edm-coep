@@ -10,7 +10,7 @@ Among the various models developed by different researchers, the basic accepted 
 3. Radius at insulated surface is assumed 100 times, the radius of disk heat source.
 Heat source assumed to be existent for the pulse-on-time with the gradually increasing and then decreasing heat source radius.
 
-<center><img src="images/1.png" title="Fig. 3.1 Snoeys's model" /></center><center>Fig. 3.1 Snoeys's model</<center>
+<center><img src="images/1.png" title="Fig. 3.1 Snoeys's model" /></center><center>Fig. 3.1 Snoeys's model</center>
 <br>
 Fraction of discharge energy transferred to cathode is assumed to be 50% (Fc = 0.5).
 
