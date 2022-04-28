@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The percentage of energy to be considered for evaluating MRR is",
+      "answers": {
+        "a": "10%",
+        "b": "25%",
+        "c": "50%",
+        "d": "70-75%"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which one of the following is a point heat source model",
+      "answers": {
+        "a": "Snoyes",
+        "b": "Dibitonto",
+        "c": "Beck's",
+        "d": "Vandick"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The percentage of energy to be considered for evaluating MRR is not 50% in which of the following model",
+      "answers": {
+        "a": "Dibitonto",
+        "b": "Vandick",
+        "c": "Snoyes",
+        "d": "Beck's"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The shape of the crater obtained is considered to be parabolid by 10%",
+      "answers": {
+        "a": "Snoyes",
+        "b": "Vandick",
+        "c": "Salonitis",
+        "d": "Beck's"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Question text5. Which one of the following thermal model considers surface roughness approach",
+      "answers": {
+        "a": "Vandick",
+        "b": "Dibitonto",
+        "c": "Jilani",
+        "d": "Salonitis"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
