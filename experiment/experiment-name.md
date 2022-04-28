@@ -1,1 +1,1 @@
-## Experiment name
+## To study various thermal models for EDM
