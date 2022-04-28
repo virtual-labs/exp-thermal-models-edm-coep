@@ -1,4 +1,15 @@
 ### Theory
+
+### Prerequisite
+
+For better understanding of the experiment a candidate should acquire following knowledge
+
+1.   Modes of Heat transfer
+2.   Basic knowledge of Electrical Discharge Machining
+3.   Various terminologies related to pulse
+4.   Understanding of various relevant terms viz. latent heat of melting, latent heat of vaporization, latent heat of evaporation
+5.   Some hands on experience for MATLAB programming
+
 Among the various models developed by different researchers, the basic accepted Thermal models are represented here along with assumptions.
 
 **Snoeys's Model** (1971) Snoeys proposed a first ever widely acknowledged thermal model for EDM process and Figure 3.1 shows graphically representation of the model.
