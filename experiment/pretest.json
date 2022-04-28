@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which type of thermal equation is applicable for EDM/WEDM or?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "steady state equation",
+        "b": "transient equation",
+        "c": "Both of the above",
+        "d": "none of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+     
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which type of heat source is used in Electrical Discharge Machining (EDM)?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "continuous",
+        "b": "pulsed",
+        "c": "Both of the above",
+        "d": "None of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The energy source is used by",
+      "answers": {
+        "a": "Dielectric",
+        "b": "Tool",
+        "c": "Work piece",
+        "d": "All of the above"
       },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Can the material removal rate be derived form a single pulse heat source and frequency of spark?",
+      "answers": {
+        "a": "Yes",
+        "b": "No",
+        "c": "Difficult to estimate",
+        "d": "Consideration of effective spark energy"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following thermal properties may not be considered while evaluating the material removal rate?",
+      "answers": {
+        "a": "Dielectric fluid",
+        "b": "Thermal Conductivity",
+        "c": "Evaporation temperature",
+        "d": "Melting temperature"
+      },
+      
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]

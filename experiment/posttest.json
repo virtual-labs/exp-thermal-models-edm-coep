@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The percentage of energy to be considered for evaluating MRR is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "10%",
+        "b": "25%",
+        "c": "50%",
+        "d": "70-75%"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which one of the following is a point heat source model",
+      "answers": {
+        "a": "Snoyes",
+        "b": "Dibitonto",
+        "c": "Beck's",
+        "d": "Vandick"
       },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The percentage of energy to be considered for evaluating MRR is not 50% in which of the following model",
+      "answers": {
+        "a": "Dibitonto",
+        "b": "Vandick",
+        "c": "Snoyes",
+        "d": "Beck's"
+      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The shape of the crater obtained is considered to be parabolid by 10%",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Snoyes",
+        "b": "Vandick",
+        "c": "Salonitis",
+        "d": "Beck's"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Question text5. Which one of the following thermal model considers surface roughness approach",
+      "answers": {
+        "a": "Vandick",
+        "b": "Dibitonto",
+        "c": "Jilani",
+        "d": "Salonitis"
+      },
+     
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
