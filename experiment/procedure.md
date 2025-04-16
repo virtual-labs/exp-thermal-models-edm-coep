@@ -1,4 +1,15 @@
-### Procedure
+## Procedure
+
+### Pre-requisite and note : 
+To **Play Animation**, you need to add browser extensions that support flash files. 
+Here are the required extensions that we suggest -
+1) Flash Player
+2) Ruffle - Flash Emulator
+
+After adding this extensions you can play animation and perform the experiment.
+
+### Steps :
+
 A comparative study of an point and disk heat source model is presented herewith. The work piece material considered for the experiment is Copper with following properties.
 
 <center><img src="images/table2.png" title="" /></center>
